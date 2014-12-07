@@ -4,3 +4,4 @@ text file that consists of telegrams and do some parsing - the parsing rules wer
 The specific task was such that one cannot use Hadoop. They were really testing to see one could write
 multi-threaded programs in java
 
+I passed the test - Resulted in an offer (but I did not take that)
